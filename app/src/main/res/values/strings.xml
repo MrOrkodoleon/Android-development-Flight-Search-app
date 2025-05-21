@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Flight Search App</string>
+    <string name="app_name_flight_search">Flight Search</string>
+    <string name="search_airports_label">Enter airport name or IATA code</string>
+    <string name="search_icon_desc">Search Icon</string>
+    <string name="flights_from_airport">Flights from %1$s</string>
+    <string name="favorite_routes">Favorite Routes</string>
+    <string name="depart_label">DEPART</string>
+    <string name="arrive_label">ARRIVE</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="no_airports_found_for_query">No airports found for \"%1$s\"</string>
+    <string name="no_destinations_found">No destinations found from this airport.</string>
+    <string name="start_searching_or_add_favorites">Start typing to search for airports or view your saved favorites.</string>
 </resources>
